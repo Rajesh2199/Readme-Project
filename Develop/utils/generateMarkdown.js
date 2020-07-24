@@ -7,7 +7,7 @@ function generateMarkdown(data) {
 ![License: ${data.license}](https://img.shields.io/badge/License-${licenselogo}-blue.svg)
 
 
-## Description
+# Description
 ${data.description}
 
 ## Table of Contents:
@@ -35,10 +35,14 @@ ${data.contribution }
 ${data.Test}
 
 ## License
-${data.license}
+This application is covered under ${data.license} license.
 
 ## Questions
 ${data.questions}
+Email:
+${data.email}
+Github Link:
+[${data.github}](https://github.com/${data.github})
 
 `;
 }

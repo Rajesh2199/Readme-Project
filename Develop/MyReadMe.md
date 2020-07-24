@@ -1,10 +1,10 @@
-# Hello
+# hello
 
-![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
 ## Description
-hi
+from
 
 ## Table of Contents:
 -[Description](#description)
@@ -16,23 +16,27 @@ hi
 -[Questions](#questions)
 
 ## Description
-hi
+from
 
 ## Installation Instructions
-how
+the other
 
 ## Usage
-are 
+side
 
 ## Contribution Guidlines
-you
+must
 
 ## Test
-doing
+have
 
 ## License
-MPL 2.0
+MIT
 
 ## Questions
-have 
+
+Email:
+baduraje@isu.edu
+Github Link:
+[rajesh2199](https://github.com/rajesh2199)
 
