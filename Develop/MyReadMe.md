@@ -1,10 +1,10 @@
-# My Readme
+# My readme 
 
-![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
 ## Description
-This a sample readme to demonstrate the functionality of the application.
+Custom description
 
 ## Table of Contents:
 - [Description](#description)
@@ -16,25 +16,25 @@ This a sample readme to demonstrate the functionality of the application.
 - [Questions](#questions)
 
 ## Description
-This a sample readme to demonstrate the functionality of the application.
+Custom description
 
 ## Installation
-Enter installation details here.
+Give your details here.
 
 ## Usage
-Enter usage details here.
+usage details here.
 
 ## Contribution
-Anybody
+Anybody.
 
 ## Test
-Test details here.
+Enter your custom instructions here.
 
 ## License
-This application is covered under Apache 2.0 license.
+This application is covered under MIT license.
 
 ## Questions
-Questions here.........
+Questions here.
 Email:
 baduraje@isu.edu
 Github Link:
