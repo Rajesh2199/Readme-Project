@@ -75,8 +75,5 @@ promptUser()
 });
 
 
-// function call to initialize program
-//init();
-
 
 
