@@ -3,6 +3,7 @@
 - [Installation](#installation)
 - [Screenshot](#Screenshot)
 - [Notes](#Notes)
+- [Credits](#Credits)
 
  ## Description 
 This repository contains source codes for a comman line application that generates a custom Readme for developers.This application is built using Javascript, and mainly Node.js.
@@ -14,3 +15,7 @@ In order to use this application and check its functionality the user will need 
 
 ## Notes
 
+
+
+## Credits
+I would like to say thank you to my fellow classmates Dilan Li and Wyatt A. Hancock for sharing their work. The Licensing portion and the details of readme of this project was inspired from their work.
