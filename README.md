@@ -14,7 +14,7 @@ In order to use this application and check its functionality the user will need 
 ## Screenshot
 
 ## Notes
-
+This project gave me the opportunity to learn more about command line and the Node.js itself. I did face a few hurdles while building this project, as all developers do while developing a new projects. In order to make this application run smoothly, I made sure I was familiar with new concepts of writing files (Fs), working with modules(specially the inquirer module), dependencies, and package.json files. Because I was recently introduced to these concpets, I had difficulty in undersanding how all of them work together to make just one Readme file. But after working on this project, I now have a clear and consise understanding of Node.js and its details.
 
 
 ## Credits
